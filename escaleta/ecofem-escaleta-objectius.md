@@ -46,7 +46,7 @@ Ara que hem entés que necessitem focalitzar en fer activitats d'una manera que 
 ## Escena 9
 Casa de la mare de Bernat. Amanda fa pitch de la seva empresa.
 
-Comparem el que seria una empresa amb benefici econòmic que tampoc ens repel (com labubus, etc, i que porta un personatge que ens cau bé) amb la idea que ha instalat Lidia de que un altre futur és possible. Bernat s'adona que té un "camí fàcil" invertint en Amanda, però hem de veure com xoca amb les seves noves conviccions.
+Comparem el que seria una empresa amb benefici econòmic però zero valors amb la idea que ha instalat Lidia de que un altre futur és possible. Bernat s'adona que té un "camí fàcil" invertint en Amanda, però hem de veure com xoca amb les seves noves conviccions.
 
 ## Escena 10
 Cementiri del poble llunyà d'on era la seva mare.
@@ -72,7 +72,7 @@ Tancar el cicle de Bernat explicant les decisions que ha prés un cop a après t
 Anomenar que una empresa tradicional no tindrà problemes pel finançament, al contrari que tindria Lídia.
 
 ## Escena 14
-Despatx de l'advocada. Bernat entra com inversor a l'empresa d'EF de Lídia.
+Bar. Bernat posa diners a finançament feminista i encarrega feina a Lídia.
 
 Parlar de la necessitat de certa valentia d'inversos individuals i d'una nova mirada del públic general perquè empreses que protegeixen la nostra humanitat puguin sortir-se'n.
 Evidenciar la mirada crítica necessària per portar-les endavant.

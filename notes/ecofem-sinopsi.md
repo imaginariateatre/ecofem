@@ -4,11 +4,11 @@ Text de 40 minuts, per 3 personatges adults, amb so (controlat per actors) i mí
 
 # Tagline
 
-Bernat ha de decidir on invertir els seus diners i el seu temps després d'una pèrdua que li ha canviat la seva manera de veure el món.
+Bernat ha de decidir en què fer servir els seus diners i el seu temps després d'una pèrdua que li ha canviat la seva manera de veure el món.
 
 # Sinopsi
 
-Bernat acaba de perdre la seva mare. Va deixar la seva flamant professió de mecànic de formula 1 per cuidar-la en una llarga malaltia, i ara n'ha heretat molts diners per sorpresa. Ha de decidir si vol reprendre la seva vida d'abans, però se sent diferent i potser voldria una altra cosa menys estressant. I a més, ha de decidir que vol fer amb aquests diners. Li recomanen que els inverteixi i s'entrevista amb dues emprenedores de filosofies econòmiques molt diferents. Mentre explora en quina persona s'ha convertit i que vol fer, veu que aquesta inversió també està dient molt de si mateix.
+Bernat acaba de perdre la seva mare. Va deixar la seva flamant professió de mecànic de fórmula 1 per cuidar-la en una llarga malaltia, i ara n'ha heretat molts diners per sorpresa. Ha de decidir si vol reprendre la seva vida d'abans, però se sent diferent i potser voldria una altra cosa menys estressant. I a més, ha de decidir que vol fer amb aquests diners. Li recomanen que els faci servir per finançar iniciatives i s'entrevista amb dues emprenedores de filosofies econòmiques molt diferents. Mentre explora en quina persona s'ha convertit i que vol fer, veu que on posa els seus diners també està dient molt de si mateix.
 
 # Personatges
 
