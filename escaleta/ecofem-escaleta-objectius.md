@@ -11,12 +11,12 @@ A la recepció del tanatori, molts amics li diuen a Bernat el que ha de fer amb 
 Adonar-nos de les pressions del macro, del que es valora en la nostra societat, de que el capitalisme campa en els nostres caps amb disfressa de "lògica".
 
 ## Escena 3
-Taller de mecànica de Juli
-Bernat agraeix a Juli el suport i li diu que no sap si tornar a la F1
+Taller de mecànica de Júlia
+Bernat agraeix a Júlia el suport i li diu que no sap si tornar a la F1
 
-Anar més al detall en els aprenentatges de Bernat, parlar de la realitat de les cures en primera persona. Explicar que tenim cossos humans, fràgils, a través dels ulls de Bernat, que ho està descobrint i ho explica a Juli.
+Anar més al detall en els aprenentatges de Bernat, parlar de la realitat de les cures en primera persona. Explicar que tenim cossos humans, fràgils, a través dels ulls de Bernat, que ho està descobrint i ho explica a Júlia.
 Comparar dues vides molt diferents però igualment impactades per les necessitats productives de l'economia capitalista.
-Evidenciar que l'ajut que li ha proporcionat Juli a Bernat ha estat un favor, Bernat s'ha sentit insegur, en deute i Juli ha sentit que estava assumint un cost ocult. Plantar aquesta idea al cap de l'espectador pel futur, perquè quan es parli d'organització de les cures dins l'economia es pugui entendre que no cal que sigui "un favor".
+Evidenciar que l'ajut que li ha proporcionat Júlia a Bernat ha estat un favor, Bernat s'ha sentit insegur, en deute i Júlia ha sentit que estava assumint un cost ocult. Plantar aquesta idea al cap de l'espectador pel futur, perquè quan es parli d'organització de les cures dins l'economia es pugui entendre que no cal que sigui "un favor".
 
 ## Escena 4
 Despatx advocada. Bernat descobreix que té molts diners i li recomanen invertir.
@@ -29,7 +29,7 @@ Televisió / Pantalla. gent recomanant coses on gastar els diners de manera desp
 De nou, que el macro estigui present, que veiem la saturació capitalista sobre "la lògica" d què fer amb els diners, que no ens deixa pensar.
 
 ## Escena 6
-Escenari de una TED talk. Lídia explica economia feminista.
+Escenari de la FESC. Lídia explica economia feminista.
 
 Solventar els dubtes més bàsics que pugui tenir l'espectador sobre què és i que no és economia feminista i comparar-la amb la capitalista.
 
@@ -55,7 +55,7 @@ Punt de gir per Bernat, on adopta les idees de Lídia perquè li semblen de cala
 També, atacar un concepte que crec necessari evidenciar que és el tabú de parlar de diners i de pensar que els diners no fan la felicitat, molt de classe mitja: Bernat s'ha d'adonar que són una eina, i que l'estan fent servir en contra nostre els que la tenen, així que hem d'aprendre a fer-la servir també.
 
 ## Escena 11
-Cuneta d'una carretera.
+Despatx de Lídia.
 
 Punt de reconeixement per Bernat de que la seva feina sí l'omple, el que no ho fa és la organització de la mateixa, però si Lídia està podent canviar el sistema: perquè no ho pot fer també ell?
 Per nosaltres: evidenciar que hi haurà contradiccions, que no serà fàcil.
@@ -66,7 +66,7 @@ Pantalles. Més anuncis d'inversions màgiques i de coses on gastar els diners s
 Últims esperpents per reforçar la nostra nova visió.
 
 ## Escena 13
-Taller de Juli. Bernat tornarà a una escuderia però intentarà canviar-la.
+Taller de Júlia. Bernat vol tornar a fer de mecànic a tope, a l'escuderia no li deixen crear millors condicions, així que li proposa crear una coope a Júlia.
 
 Tancar el cicle de Bernat explicant les decisions que ha prés un cop a après tot això. No serà fàcil, i hi haurà contradiccions, però com a mínim hi haurà una acció afirmativa i un reconeixement de voler promoure la idea d'una economia més feminista.
 Anomenar que una empresa tradicional no tindrà problemes pel finançament, al contrari que tindria Lídia.
