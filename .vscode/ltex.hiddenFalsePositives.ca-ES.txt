@@ -1,3 +1,5 @@
 {"rule":"CATALAN_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QAra, tornen a molar.\\E$"}
 {"rule":"CA_SIMPLE_REPLACE","sentence":"^\\QBERNAT Vale, això és el més absurd que he fet a la meva vida, però no em volia descuidar res, així que m'he fet un guió, vale, mama? (parlant-li a la capsa) No m'enrollaré gaire.\\E$"}
 {"rule":"FLIPAR","sentence":"^\\QI si vols ajut en el que sigui de l'herència i tal, jo t'ajudo, que m'he fet superexperta en cripto, tio, unes inversions que flipes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJÚLIA Estàs locu?\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJÚLIA Sí, que estàs locu.\\E$"}
