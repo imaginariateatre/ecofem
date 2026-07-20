@@ -3,3 +3,4 @@
 {"rule":"FLIPAR","sentence":"^\\QI si vols ajut en el que sigui de l'herència i tal, jo t'ajudo, que m'he fet superexperta en cripto, tio, unes inversions que flipes.\\E$"}
 {"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJÚLIA Estàs locu?\\E$"}
 {"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJÚLIA Sí, que estàs locu.\\E$"}
+{"rule":"CONCORDANCES_ADJ_NOM","sentence":"^\\QLÍDIA Gràcies.\\E$"}
