@@ -1,3 +1,45 @@
+21/7/26 - notes dp de primera versió
+
+que la última escena sigui la de júlia i sigui de desig, no de proposar la realitat de fer-ho, sino només somniar-ho, parlar-ho
+
+i potser la última és pot moure abans i que sigui una escena informal d'amigues en que ell faci preguntes i li expliquin coses de l'ESS i EF
+per exemple dp del parlament de lidia a la fesc, que maria bernat i lidia estiguin al bar parlant
+fins i tot pueden ponerse a bailar o algo asi mas divertido
+
+resoldre una mica més la vida personal de Bernat
+que es vegi perquè vol fer les hores que guanya si entra en eco feminista
+
+enfatizar el vínculo con las costureras no tanto que haya cosido, sino el círculo que ha creado de mayor
+
+potser treure l'escena del cementiri
+i canviar-la per una escena comunitària
+per exemple al pis, en un sopar de llevate pongos, i que la gente entre i salga i el hable de sus cosas
+enque el pueda explicitar las dudas i la busqueda de su identidad , lo q le explicana a la madre
+
+mi entidad tiene que estar adaptada a que mi vida esté presente
+el trabajo és un instrumento para vivir
+
+resignificar la ambición: nos gusta que la tenga, solo que la resignifique en que no sea una ambición común, de triunfo monetàrio
+que quede claro que no és dar un paso atrás
+la pastanaga és una ambición
+
+mostrar, per exemple a lidia a la fesc, que de vegades és dificil i qu ehi ha contradiccions en l'aplicació, sense enfatitzar que és dolent
+no somos un unicorni, no somos una varita màgica, pero podemos poner en el centro nuestras ambiciones de vivir mejor
+
+la coña no és bien o mal, productivista o comunitario, la coña és: donde pones el centro, que priorizas
+
+viaje de bernat: mi ambición és vivir, i aix`és el que he descobert
+potser no cal resoldre-ho, potser només ho descobreix
+
+marcar una mica més que julia no es cuida a si mateixa en les hores i tal en les primeres escenes 
+
+explicitar lo del que el taller sigui també de bicis electriques etc
+
+que el cotxe que arregla de la treballadora sigui de sommo i ell s'oferix i veu que li agrada
+i que ell pensi que hi ha mecanica a fer fora del capitalisme
+
+
+
 10/7/26 - comentaris Eli + mail clienta
 
 Ja tenim els comentaris de la clienta. Se'ns dubte el procés d'entendre i corresponsabilitzar-nos està funcionant. A celebrar!

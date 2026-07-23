@@ -4,3 +4,12 @@
 {"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJÚLIA Estàs locu?\\E$"}
 {"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJÚLIA Sí, que estàs locu.\\E$"}
 {"rule":"CONCORDANCES_ADJ_NOM","sentence":"^\\QLÍDIA Gràcies.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\Q(fa el meme de que li explota el cap) Si vols entrar en detall sobre tot això, apuntat al meu curs \"Fetitxisme per dummies\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\Q(fa el meme que li explota el cap) Si vols entrar en detall sobre tot això, apuntat al meu curs \"Fetitxisme per dummies\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QSi mires l'impacte ecosocial que generen, son projectes més ètics, justos, solidaris…\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QSi mires l'impacte ecosocial que generen, són projectes més ètics, justos, solidaris…\\E$"}
+{"rule":"CATALAN_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMARIA Crec que hauries de valorar el que et proposaré.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJo truco a SOMMO perquè enviïn a algú.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QPerò t'he de dir una cosa, bro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QNomés diré una paraula: crypto.\\E$"}
+{"rule":"FLIPAR","sentence":"^\\QFliparàs.\\E$"}
