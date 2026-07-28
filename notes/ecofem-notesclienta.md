@@ -1,3 +1,7 @@
+28/7/26 - notes dp de guió entregat
+
+document pdf al drive d'imaginària ecofem-guio-v26-07-23-REV-LU&nina.pdf
+
 21/7/26 - notes dp de primera versió
 
 que la última escena sigui la de júlia i sigui de desig, no de proposar la realitat de fer-ho, sino només somniar-ho, parlar-ho

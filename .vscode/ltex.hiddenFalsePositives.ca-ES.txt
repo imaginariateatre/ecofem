@@ -13,3 +13,11 @@
 {"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QPerò t'he de dir una cosa, bro.\\E$"}
 {"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QNomés diré una paraula: crypto.\\E$"}
 {"rule":"FLIPAR","sentence":"^\\QFliparàs.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QEi, tranqui, tranqui, no cal que surtis.\\E$"}
+{"rule":"CONCORDANCES_ATRIBUT","sentence":"^\\QMARIA Seria fantàstic que comencis a apropar-te a aquest món ara que dius no saps que fer amb els diners.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QLídia fa pitch a Bernat i ell veu que el que havia descobert en solitari (cos fràgil, interdependència) ja ha estat pensat i hi ha solucions comunitàries.\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QJa ho saps, acabo d'heretar uns diners i la veritat, ara mateix no els necessito i m'ha insistit que no els fiqués en una guardioleta i me n'oblidés, i que vingués aquí a veure on poden fer més servei…\\E$"}
+{"rule":"TIO","sentence":"^\\QANDRES Bernie tio.\\E$"}
+{"rule":"TIO","sentence":"^\\QEscolta, que tens unes raquetes de tenis tio, allà guardades!\\E$"}
+{"rule":"MORFOLOGIK_RULE_CA_ES","sentence":"^\\QI després fem un vermutillo, no?\\E$"}
+{"rule":"TIO","sentence":"^\\QANDRES Clar tio!\\E$"}
